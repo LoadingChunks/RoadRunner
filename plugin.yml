@@ -1,0 +1,8 @@
+name: RoadRunner
+main: net.loadingchunks.plugins.RoadRunner.RoadRunner
+version: 0.1
+commands:
+  rranvil:
+    description: Spawn an anvil at the current position
+    permission: roadrunner.anvil
+    usage: Syntax error! Simply type /<command> to spawn an anvil.
